@@ -71,8 +71,8 @@
 	- github: https://github.com/Thomas-Minnebo/Software-Engineering
 
 - Op de Beeck Jesse
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: jesse.opdebeeck@student.kdg.be
+	- github: https://github.com/jessekdg/software-engineering-oplossingen.git
 
 - Peeters Leen
 	- e-mailadres: naam@student.kdg.be
